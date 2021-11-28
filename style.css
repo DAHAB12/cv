@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: chocolate;
+  color: azure;
+}
+.two {
+  margin: 15px;
+  padding: 10px;
+  box-shadow: blueviolet;
+  background: cadetblue;
+}
+ul {
+  margin: 0;
+  padding: 10px;
+}
+.three {
+  margin: 0;
+  padding: 10px;
+  background: cadetblue;
+}
